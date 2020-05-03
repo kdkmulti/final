@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const h2 = document.querySelector("h2"),
   body = document.querySelector("body"),
   name = document.querySelector("#name"),
